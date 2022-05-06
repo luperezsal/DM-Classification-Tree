@@ -1,0 +1,6 @@
+,resampling_method,best_mean_accuracy,best_depth
+0,None,0.5958848897405744,6
+1,RandomUnderSampler,0.3335636884032331,6
+2,RandomOverSampler,0.4142432814400185,14
+3,SMOTE2,0.5246957531547947,12
+4,SMOTEENN,0.3004677627630397,14
